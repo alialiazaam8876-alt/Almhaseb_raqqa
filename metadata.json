@@ -1,0 +1,6 @@
+{
+  "name": "المحاسب المحترف",
+  "description": "برنامج محاسبة وجرد بضائع متكامل لإدارة المبيعات، المشتريات، المخزون، الحسابات والعملاء",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
